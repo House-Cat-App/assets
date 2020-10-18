@@ -1,3 +1,3 @@
 # assets
 
-🍱 Designs, images, and documents for House Cat.
+🍱 Designs, images, and documents.
